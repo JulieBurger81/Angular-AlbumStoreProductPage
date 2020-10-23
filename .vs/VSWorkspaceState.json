@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\e2e",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\product-description",
+    "\\src\\app\\product-page"
   ],
   "PreviewInSolutionExplorer": false
 }
